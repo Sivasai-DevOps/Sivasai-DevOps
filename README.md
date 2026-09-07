@@ -78,7 +78,7 @@ DevOps Engineer with 4+ years of experience designing and automating AWS cloud i
 
 ### Experience
 
-**DevOps Engineer Tata Consultancy Services (TCS)** &nbsp;Â·&nbsp; Mar 2022 Present
+**DevOps Engineer Tata Consultancy Services (TCS)** &nbsp;&nbsp; Mar 2022 Present
 
 - Automated end-to-end CI/CD pipelines with Jenkins, Git, and Maven  reduced release time by 30%
 - Provisioned scalable AWS infrastructure using Terraform IaC modules  accelerated provisioning by 50%+
