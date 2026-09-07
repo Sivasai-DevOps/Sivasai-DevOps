@@ -1,5 +1,5 @@
 <h1 align="center">Sivasai Giduturi</h1>
-<h3 align="center">DevOps Engineer Â· 4+ Years Experience</h3>
+<h3 align="center">DevOps Engineer 4+ Years Experience</h3>
 
 <p align="center">
   <a href="mailto:sivasai2332@gmail.com">
