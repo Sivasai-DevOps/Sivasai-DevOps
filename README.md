@@ -78,15 +78,15 @@ DevOps Engineer with 4+ years of experience designing and automating AWS cloud i
 
 ### Experience
 
-**DevOps Engineer â€” Tata Consultancy Services (TCS)** &nbsp;Â·&nbsp; Mar 2022 â€“ Present
+**DevOps Engineer Tata Consultancy Services (TCS)** &nbsp;Â·&nbsp; Mar 2022 â€“ Present
 
-- Automated end-to-end CI/CD pipelines with Jenkins, Git, and Maven â€” reduced release time by 30%
-- Provisioned scalable AWS infrastructure using Terraform IaC modules â€” accelerated provisioning by 50%+
+- Automated end-to-end CI/CD pipelines with Jenkins, Git, and Maven  reduced release time by 30%
+- Provisioned scalable AWS infrastructure using Terraform IaC modules  accelerated provisioning by 50%+
 - Deployed and managed microservices on Kubernetes/EKS using Helm, scaling, and load balancing
 - Implemented GitOps with Argo CD; blue-green and canary strategies for zero-downtime releases
-- Built Prometheus + Grafana observability stack for apps and EKS clusters â€” cut incident response by 40%
+- Built Prometheus + Grafana observability stack for apps and EKS clusters  cut incident response by 40%
 - Integrated SonarQube, Trivy, OWASP, and tfsec into Jenkins pipelines for end-to-end security scanning
-- Optimized Kubernetes resource allocation â€” improved efficiency by 25%, reduced deployment failures by 30%+
+- Optimized Kubernetes resource allocation  improved efficiency by 25%, reduced deployment failures by 30%+
 
 ---
 
